@@ -1,0 +1,27 @@
+{
+  "name": "typescripttuto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": " nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Su-Hla-ing/typescriptTuto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Su-Hla-ing/typescriptTuto/issues"
+  },
+  "homepage": "https://github.com/Su-Hla-ing/typescriptTuto#readme",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
